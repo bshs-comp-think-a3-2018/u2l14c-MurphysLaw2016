@@ -1,39 +1,22 @@
-body{
-  text-align: center;
-  background-color: gray;
+body {
+  background-color: darkred;
+  
 }
-img {
-  width: 500px;
-  border-color:black;
-  border-style: ridge;
-  border-width: 5px;
+p {
+  color: black;
 }
 h1 {
-  font-size: 50px;
+  border-style:Double;
+  color: wheat;
+  text-decoration-color: aqua;
+  font-family: Brush Script MT;
 }
-h2 {
-  font-size: 40px;
-}
-h5 {
-  font-size: 15px;
-} 
-
-.winter {
-  color: rgb(195,230,255);
-  font-family: monospace; 
-} 
-
-.spring {
-  color: rgb(236,222,106);
-  font-family: cursive;  
-}
-
-.summer {
-  color: rgb(234,128,158);
-  font-family: sans-serif;
-}
-
-.fall {
-  color: rgb(61,172,83);
-  font-family: inherit;
+img {
+  float: left;
+  width: 250px;
+  margin: 10px;
+  border-color: red;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
 }
